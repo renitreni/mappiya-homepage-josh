@@ -416,7 +416,6 @@
     <li style="font-size: 20px;">Padala item</li>
     <li style="font-size: 20px;">food delivery</li>
     <li style="font-size: 20px;">grocery & medicine</li>
-    
     <li style="font-size: 20px;">Tour Guide</li>
     <li style="font-size: 20px;">Taxi Services (Pick & Drop)</li>
     
